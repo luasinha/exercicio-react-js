@@ -1,0 +1,8 @@
+.anoatual{
+  
+  display: flex;
+  justify-content: right;
+  background-color: rgb(0, 0, 0);
+  color: yellow;
+  margin: 16px;
+}

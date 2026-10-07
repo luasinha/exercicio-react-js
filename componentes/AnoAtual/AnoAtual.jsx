@@ -1,0 +1,7 @@
+import './AnoAtual.css'
+
+function AnoAtual(){
+    return <div className='anoatual'>2024</div>
+}
+
+export default AnoAtual
